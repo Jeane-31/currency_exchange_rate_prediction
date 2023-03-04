@@ -12,6 +12,7 @@ data_set_len = 0
 set_train_len = 0
 set_test_len = 0
 
+
 def plot(load_data, pred_train, pred_test, pred_test_arima, filename):
     global data_set_len
     data_set_len = len(load_data)
