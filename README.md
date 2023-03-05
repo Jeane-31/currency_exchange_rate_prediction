@@ -17,6 +17,7 @@ To run the project, simply run cerp.py. The script will train both ARIMA and RNN
 ## Dependencies
 This project requires the following Python libraries:
 
+##### python 3.0 or later
 ##### pandas
 ##### matplotlib
 ##### scikit-learn
