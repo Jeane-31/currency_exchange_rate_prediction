@@ -5,8 +5,10 @@ This project aims to predict the currency exchange rate between the US Dollar an
 The project consists of three Python files:
 
 algo_1_arima.py: Implements the ARIMA model for predicting USD/INR exchange rates.
+
 algo_2_rnn.py: Implements the RNN model for predicting USD/INR exchange rates.
-main.py: Runs both ARIMA and RNN models and compares their performance.
+
+cerp.py: Runs both ARIMA and RNN models and compares their performance.
 
 ## Dataset
 The dataset used in this project is the historical daily data of USD/INR exchange rate from Jan 2020 to Dec 2022. The dataset can be found in the file 'usdinr_d_2.csv'.
